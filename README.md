@@ -1,6 +1,65 @@
 # Online Retail Dataset - Customer Segmentation
 
+![project_header](image link from the github folder goes here)
+
+
+## Table of Contents
+
+1. [ Project Introduction ](#Project_Introduction)
+2. [ Technologies Used ](#Technologies_Used)    
+3. [ Methods Used ](#Methods_Used)
+4. [ Project Description ](#Project_Description)
+   * [ 1. Data Sources ](#Data_Sources)
+   * [ 2. File Descriptions ](#File_Descriptions) 
+5. [ Feature Notebooks and Deliverables ](#Notebooks_deliverables)
+6. [ Most Important Findings ](#Findings)
+   * [1. ](#link_tag)
+   * [2. ](#link_tag)
+   * [3. ](#link_tag)
+   * [4. ](#link_tag)
+   * [5. ](#link_tag)
+   * [6. Conclusion and Future Recommendations](#conclusion)
+7. [ Acknowledgments ](#Acknowledgments)
+8. [ Licences ](#Licences)
+9. [ Contact ](#Contact)
+
+## Project Introduction
+<a name="Project_Introduction"></a>
+
 This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
+## Technologies Used
+<a name="Technologies_Used"></a>
+
+* [Python](https://www.python.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [NLTK](https://www.nltk.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+
+## Methods Used
+<a name="Methods_Used"></a>
+
+* Data Processing / Data Cleaning
+* Data Analysis
+* Descriptive Statistics
+* Feature Engineering
+* Data Visualization
+* Text Preprocessing
+* Sentiment Analysis
+* Predictive Modeling and Hyperparameter Tuning
+* Evaluating Model Results
+* Reporting
+
+## Project Description
+<a name="Project_Description"></a>
+
+### Data Sources
+<a name="Data_Sources"></a>
+
+[Data Source](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 **Attribute Information:**
 
@@ -13,17 +72,58 @@ This is a transnational data set which contains all the transactions occurring b
 - **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - **Country**: Country name. Nominal, the name of the country where each customer resides. 
 
-**Dataset source**
+### File Descriptions
+<a name="File_Descriptions"></a>
 
-https://archive.ics.uci.edu/ml/datasets/online+retail
+* [Data](link to folder) - folder containing processed data
+* [Images](link to folder) - folder containing assets such as images
+* [1. Data Preprocessing and Basic EDA](link to notebook) - Notebook which contains the process of Basic Data Exploration and Preprocessing
 
-### **The Structure of the notebook:**
+## Feature Notebooks and Deliverables
+<a name="Notebooks_deliverables"></a>
 
-+ Imports
-+ Data
-+ Basic EDA
+### Blog Posts
+[name of blog](link to blog)
 
-## Potential Actions:
+### Structure of Notebooks
+<details>
+   <summary>Collapse</summary>
 
-* Feature engineering
-* Create clusters of customers
+      1. Data Preprocessing and Basic EDA
+
+            1. Imports
+            2. Data
+               2.1 Business Dataset
+               2.2 Review Dataset
+               2.3 User Dataset
+            3. Early EDA and Data Cleaning
+               3.1 Missing values
+               3.2 Duplicate rows
+               3.3 Removing unnecessary features
+            4. Saving data for the next stage
+</details> 
+
+### Presentation
+[Presentation.pdf](link to presentation)
+
+## Most Important Findings
+<a name="Findings"></a>
+
+### 1. Title of finding
+<a name="link_tag"></a>
+
+### 6. Conclusion and Future Recommendations
+<a name="conclusion"></a>
+
+## Acknowledgments
+<a name="Acknowledgments"></a>
+
+## Licenses
+<a name="Licences"></a>
+
+[Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
+
+## Contact
+<a name="Contact"></a>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/), [Twitter](https://twitter.com/adzic_tanja) or [adzictanja.com](https://www.adzictanja.com/).
