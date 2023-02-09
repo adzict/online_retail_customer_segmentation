@@ -1,6 +1,6 @@
 # Online Retail Dataset - Customer Segmentation
 
-![project_header](image link from the github folder goes here)
+![project_header](https://github.com/adzict/online_retail_customer_segmentation/blob/main/assets/target-group-large.jpg)
 
 
 ## Table of Contents
