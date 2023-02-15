@@ -60,6 +60,7 @@ The success of any business depends on its ability to understand its customers a
 <a name="Data_Sources"></a>
 
 This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
 [Data Source](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 **Attribute Information:**
@@ -76,7 +77,7 @@ This is a transnational data set which contains all the transactions occurring b
 ### File Descriptions
 <a name="File_Descriptions"></a>
 
-* [Data](lhttps://github.com/adzict/online_retail_customer_segmentation/blob/main/Online%20Retail%20Customer%20Segmentation.xlsx) - raw data
+* [Data](https://github.com/adzict/online_retail_customer_segmentation/blob/main/Online%20Retail%20Customer%20Segmentation.xlsx) - raw data
 * [Assets](https://github.com/adzict/online_retail_customer_segmentation/tree/main/assets) - folder containing assets such as images
 * [Online Retail Customer Segmentation.ipynb](https://github.com/adzict/online_retail_customer_segmentation/blob/main/Online%20Retail%20Customer%20Segmentation.ipynb) - Notebook containing the projetc
 
