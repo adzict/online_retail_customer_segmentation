@@ -11,16 +11,9 @@
    * [ 1. Data Sources ](#Data_Sources)
    * [ 2. File Descriptions ](#File_Descriptions) 
 5. [ Feature Notebooks and Deliverables ](#Notebooks_deliverables)
-6. [ Most Important Findings ](#Findings)
-   * [1. ](#link_tag)
-   * [2. ](#link_tag)
-   * [3. ](#link_tag)
-   * [4. ](#link_tag)
-   * [5. ](#link_tag)
-   * [6. Conclusion and Future Recommendations](#conclusion)
-7. [ Acknowledgments ](#Acknowledgments)
-8. [ Licences ](#Licences)
-9. [ Contact ](#Contact)
+6. [6. Conclusion and Future Recommendations](#conclusion)
+7. [ Licences ](#Licences)
+8. [ Contact ](#Contact)
 
 ## Project Introduction
 <a name="Project_Introduction"></a>
@@ -114,18 +107,14 @@ This is a transnational data set which contains all the transactions occurring b
             8. Understanding Clusters
 </details> 
 
-
-## Most Important Findings
-<a name="Findings"></a>
-
-### 1. Title of finding
-<a name="link_tag"></a>
-
 ### 6. Conclusion and Future Recommendations
 <a name="conclusion"></a>
 
-## Acknowledgments
-<a name="Acknowledgments"></a>
+In conclusion, this project aimed to identify customer segments based on their purchase behavior using RFM analysis and K-Means clustering. By analyzing a transnational dataset containing all the transactions of a UK-based online retail company, I was able to gain insights into the purchasing habits of their customer base. Feature engineering played a critical role in enhancing the quality of our results, as it provided us with additional variables to use in my analysis.
+
+The results of the analysis revealed that the customer base could be divided into several distinct segments based on their purchasing behavior. By understanding these segments, the company can tailor its marketing efforts to better meet the needs of its customers, leading to increased customer loyalty and satisfaction.
+
+Overall, this project highlights the importance of understanding customer behavior in today's e-commerce landscape and demonstrates how clustering techniques, coupled with feature engineering, can be powerful tools for gaining insights into customer behavior.
 
 ## Licenses
 <a name="Licences"></a>
