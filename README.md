@@ -47,6 +47,7 @@ This project is aimed at identifying customer clusters / segments based on their
 * Feature Engineering
 * Data Visualization
 * Text Preprocessing
+* Principal Component Analysis
 * Clustering Customers using K-Means Clustering
 * Evaluating Model Results
 * Reporting
@@ -79,7 +80,7 @@ This is a transnational data set which contains all the transactions occurring b
 
 * [Data](https://github.com/adzict/online_retail_customer_segmentation/blob/main/Online%20Retail%20Customer%20Segmentation.xlsx) - raw data
 * [Assets](https://github.com/adzict/online_retail_customer_segmentation/tree/main/assets) - folder containing assets such as images
-* [Online Retail Customer Segmentation.ipynb](https://github.com/adzict/online_retail_customer_segmentation/blob/main/Online%20Retail%20Customer%20Segmentation.ipynb) - Notebook containing the projetc
+* [Online Retail Customer Segmentation.ipynb](https://github.com/adzict/online_retail_customer_segmentation/blob/main/Online%20Retail%20Customer%20Segmentation.ipynb) - Notebook containing the project
 
 ## Feature Notebooks and Deliverables
 <a name="Notebooks_deliverables"></a>
@@ -92,14 +93,25 @@ This is a transnational data set which contains all the transactions occurring b
 
             1. Imports
             2. Data
-               2.1 Business Dataset
-               2.2 Review Dataset
-               2.3 User Dataset
-            3. Early EDA and Data Cleaning
+            3. Basic EDA
                3.1 Missing values
-               3.2 Duplicate rows
-               3.3 Removing unnecessary features
-            4. Saving data for the next stage
+            4. Data Preprocessing
+               4.1 Removing the missing values
+               4.2 Checking for duplicate rows
+               4.3 Outliers
+            5. RFM Analysis
+               5.1 Recency
+               5.2 Frequency
+               5.3 Monetary Value
+               5.4 RFM Segmentation using scores
+               5.5 Visualizing the RFM Level customers using a bar plot
+            6. Clustering products into product categories
+               6.1 The Elbow Method
+               6.2 Visualizing the clusters
+            7. Customer Segmentation using Unsupervised Learning
+               7.1 PCA
+               7.2 K-Means Clustering
+            8. Understanding Clusters
 </details> 
 
 
